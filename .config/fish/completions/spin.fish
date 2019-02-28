@@ -1,0 +1,1 @@
+/home/nmarcetic/.config/fisherman/spin/completions/spin.fish

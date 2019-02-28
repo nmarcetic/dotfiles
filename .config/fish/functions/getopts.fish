@@ -1,0 +1,1 @@
+/home/nmarcetic/.config/fisherman/getopts/getopts.fish
