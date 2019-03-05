@@ -7,4 +7,4 @@ Setup, structure and automation is inspired by [Nicola's Paolucci blog post](htt
 ``curl -Lks https://raw.githubusercontent.com/nmarcetic/dotfiles/master/.cfg-scripts/cfg-init.sh | /bin/bash``
 
 ### Install 
-``curl -Lks http://bit.do/cfg-installhttps://raw.githubusercontent.com/nmarcetic/dotfiles/master/.cfg-scripts/cfg-install.sh | /bin/bash``
+``curl -Lks https://raw.githubusercontent.com/nmarcetic/dotfiles/master/.cfg-scripts/cfg-install.sh | /bin/bash``
