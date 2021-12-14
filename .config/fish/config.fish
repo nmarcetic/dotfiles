@@ -30,3 +30,9 @@ set -x PATH $PATH /usr/local/kubebuilder/bin
 #
 # set alias for home dotafiles config
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/home/nmarcetic/Downloads/google-cloud-sdk/path.fish.inc' ]; . '/home/nmarcetic/Downloads/google-cloud-sdk/path.fish.inc'; end
+
+xset r rate 220 40
+bind -M insert \cf accept-autosuggestion
