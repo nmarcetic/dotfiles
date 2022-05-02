@@ -36,3 +36,4 @@ if [ -f '/home/nmarcetic/Downloads/google-cloud-sdk/path.fish.inc' ]; . '/home/n
 
 xset r rate 220 40
 bind -M insert \cf accept-autosuggestion
+
